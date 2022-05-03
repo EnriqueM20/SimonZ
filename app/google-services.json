@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820626350284",
+    "project_id": "simon-52fcd",
+    "storage_bucket": "simon-52fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820626350284:android:a25432ffba0f9b7deea269",
+        "android_client_info": {
+          "package_name": "com.example.practicasimonenriquequerol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820626350284-na0ubn4ht04k7flahodb6pqrm13ekhgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMnWTSjcwHxblKxKyEB-Wq_t7G2JPHk_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820626350284-na0ubn4ht04k7flahodb6pqrm13ekhgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
